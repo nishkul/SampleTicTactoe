@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleTicTactoe</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>
+    <!--<string name="interstitial_full_screen">ca-app-pub-0664570763252260/1769900428</string>-->
+    <string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

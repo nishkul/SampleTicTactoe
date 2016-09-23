@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/loadIntertial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="LoadInterstialClick"
+        android:text="LoadInterstial " />
+
+    <Button
+        android:id="@+id/intertialNotReady"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="intertialNotReadyClick"
+        android:saveEnabled="false"
+        android:text="Intertials not ready" />
+</LinearLayout>
